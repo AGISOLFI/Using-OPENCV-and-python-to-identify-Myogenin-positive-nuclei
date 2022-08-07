@@ -7,7 +7,7 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-img = cv2.imread("Db 5 Revised.tiff")
+img = cv2.imread("/Users/anthony/Code/GitHub/brave-sim-teskm-rr/images/Db 5 Revised.tiff")
 (Blue_img, Green_img, Red_img) = cv2.split(img)
 #use the following to show the different channels:
 # cv2.imshow("Red", Red_img)
