@@ -4,7 +4,7 @@
 
 The Biomedical Engineering Research for Active military and Veterans (BRAVe) program at the University of Texas San Antonio inolves undergraduate students in a 10 week summer REU opportunity. In this time period, students complete research that is beneficial to and/or collabrative with the United States Armed Services. This repository was desgined for data quantification of the research of SIRT-1 overexpression influence on myogenesis in tissue engineered skeletal muscle.
 
-[Learn more]()
+[Learn more](https://www.linkedin.com/pulse/brave-research-potential-sirt1-impact-diabetic-quality-gisolfi) 
    
 ## Problem
 How can python code be utilized to determine the percentage of myogenin positive nuclei in fluorescent confocal microscopy images?
